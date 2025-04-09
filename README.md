@@ -30,7 +30,7 @@ An intelligent system that detects **anomalous or fraudulent credit card transac
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Yash-Dave/Credicard-fraud-detector.git
+git clone https://github.com/Yash-Dave/Creditcard-fraud-detector.git
 cd credit-card-fraud-detection
 
 ```
